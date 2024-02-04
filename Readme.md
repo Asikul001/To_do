@@ -4,11 +4,16 @@ It is a Very Simple My First React Project.
 
 ```script
 git clone https://github.com/Asikul001/To_do.git
-
+```
+```
 cd To_do
+```
 
+```
 npm install
+```
 
+```
 npm start
 
 ```
