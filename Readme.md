@@ -3,17 +3,17 @@ It is a Very Simple My First React Project.
 # Getting Started
 
 ```script
-> git clone https://github.com/Asikul001/To_do.git
+git clone https://github.com/Asikul001/To_do.git
 ```
 ```
-> cd To_do
-```
-
-```
-> npm install
+cd To_do
 ```
 
 ```
-> npm start
+ npm install
+```
+
+```
+ npm start
 
 ```
