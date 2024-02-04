@@ -10,10 +10,10 @@ cd To_do
 ```
 
 ```
- npm install
+npm install
 ```
 
 ```
- npm start
+npm start
 
 ```
